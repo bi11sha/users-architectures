@@ -1,0 +1,10 @@
+{
+  "name": "users-architectures",
+  "version": "1.0.0",
+  "description": "КТ2 (SOLID) + КТ3 (MVC/MVP/MVVM) + КТ4 (Onion/Clean) в одном проекте «Список пользователей»",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "solid": "node solid/run-all.js"
+  }
+}
